@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**lexqun/lexqun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alexandre Quin, a freelance web developer passionate about the Symfony framework. Based in Paris, I am always on the lookout for new learning opportunities and collaborations.
 
-Here are some ideas to get you started:
+- 🌱 I'm always learning and refining my skills in web languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+
+- 🖥️ Programming Languages: HTML, CSS, PHP, JS, BASH.
+- 🛠️ Technologies: Symfony, Wordpress, Docker.
+
+## Contact
+
+- 📧 Email: contact@alexandre-quin.fr
+- 🔗 Linkedin: [alexandre quin](https://www.linkedin.com/in/alexandre-quin-96313a1a9/)
+- 🌎 Website: [https://www.alexandre-quin.fr](https://www.alexandre-quin.fr)
